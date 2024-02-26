@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T16:29:37.691Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KY8AMYHMa-R_Ck1Ntm7Q" version="23.1.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-26T16:42:33.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="TZAh4srt1OMy5D4qm26k" version="23.1.6" type="github" pages="3">
   <diagram name="Home" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1754" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="677b7b8949515195-1" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="1060" height="810" as="geometry" />
-        </mxCell>
         <mxCell id="677b7b8949515195-2" value="LOGO" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="60" width="190" height="50" as="geometry" />
         </mxCell>
@@ -16,17 +13,8 @@
         <mxCell id="677b7b8949515195-10" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="160" width="1040" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-11" value="Home" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="330" y="175" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="677b7b8949515195-12" value="Gaming" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="477" y="175" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="677b7b8949515195-13" value="Singing" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="623" y="175" width="60" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="677b7b8949515195-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="230" width="290" height="290" as="geometry" />
+          <mxGeometry x="55" y="260" width="290" height="290" as="geometry" />
         </mxCell>
         <mxCell id="qzUIoW12N6bvW76vhOi2-1" value="Evan&#39;s Favorite Things" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="603" y="60" width="100" height="40" as="geometry" />
@@ -37,6 +25,15 @@
         <mxCell id="qzUIoW12N6bvW76vhOi2-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Georgia&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/font&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="300" width="510" height="300" as="geometry" />
         </mxCell>
+        <mxCell id="-9HKoHMR5p7395avfxu4-1" value="Home" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="345" y="175" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-9HKoHMR5p7395avfxu4-2" value="Gaming" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="520" y="175" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-9HKoHMR5p7395avfxu4-3" value="Singing" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="695" y="175" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -45,9 +42,6 @@
       <root>
         <mxCell id="OUyj7obwTnEIhmOdAMiX-0" />
         <mxCell id="OUyj7obwTnEIhmOdAMiX-1" parent="OUyj7obwTnEIhmOdAMiX-0" />
-        <mxCell id="OUyj7obwTnEIhmOdAMiX-2" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" vertex="1" parent="OUyj7obwTnEIhmOdAMiX-1">
-          <mxGeometry x="20" y="20" width="1060" height="810" as="geometry" />
-        </mxCell>
         <mxCell id="OUyj7obwTnEIhmOdAMiX-3" value="LOGO" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" vertex="1" parent="OUyj7obwTnEIhmOdAMiX-1">
           <mxGeometry x="40" y="60" width="190" height="50" as="geometry" />
         </mxCell>
@@ -57,26 +51,76 @@
         <mxCell id="OUyj7obwTnEIhmOdAMiX-5" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="OUyj7obwTnEIhmOdAMiX-1">
           <mxGeometry x="30" y="160" width="1040" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OUyj7obwTnEIhmOdAMiX-6" value="Home" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="OUyj7obwTnEIhmOdAMiX-1">
-          <mxGeometry x="330" y="175" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="OUyj7obwTnEIhmOdAMiX-7" value="Gaming" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="OUyj7obwTnEIhmOdAMiX-1">
-          <mxGeometry x="477" y="175" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="OUyj7obwTnEIhmOdAMiX-8" value="Singing" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="OUyj7obwTnEIhmOdAMiX-1">
-          <mxGeometry x="623" y="175" width="60" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="OUyj7obwTnEIhmOdAMiX-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="OUyj7obwTnEIhmOdAMiX-1">
-          <mxGeometry x="40" y="230" width="290" height="290" as="geometry" />
+          <mxGeometry x="60" y="270" width="290" height="290" as="geometry" />
         </mxCell>
         <mxCell id="OUyj7obwTnEIhmOdAMiX-10" value="Evan&#39;s Favorite Things" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="OUyj7obwTnEIhmOdAMiX-1">
           <mxGeometry x="603" y="60" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OUyj7obwTnEIhmOdAMiX-11" value="Home" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="OUyj7obwTnEIhmOdAMiX-1">
+        <mxCell id="OUyj7obwTnEIhmOdAMiX-11" value="Gaming" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="OUyj7obwTnEIhmOdAMiX-1">
           <mxGeometry x="500" y="220" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OUyj7obwTnEIhmOdAMiX-12" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Georgia&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/font&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="OUyj7obwTnEIhmOdAMiX-1">
-          <mxGeometry x="470" y="300" width="510" height="300" as="geometry" />
+          <mxGeometry x="170" y="580" width="800" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="SfA9yu4FjENqFnzJRkuB-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="OUyj7obwTnEIhmOdAMiX-1">
+          <mxGeometry x="405" y="270" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="SfA9yu4FjENqFnzJRkuB-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="OUyj7obwTnEIhmOdAMiX-1">
+          <mxGeometry x="750" y="270" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Qs59eCO91VHgMj4VqoPb-0" value="Home" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="OUyj7obwTnEIhmOdAMiX-1">
+          <mxGeometry x="345" y="175" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qs59eCO91VHgMj4VqoPb-1" value="Gaming" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="OUyj7obwTnEIhmOdAMiX-1">
+          <mxGeometry x="520" y="175" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qs59eCO91VHgMj4VqoPb-2" value="Singing" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="OUyj7obwTnEIhmOdAMiX-1">
+          <mxGeometry x="695" y="175" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Singing" id="xA63ReXNObb5B2T8wdkJ">
+    <mxGraphModel dx="1754" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="_0qj-7AA-uxdaf65aAc7-0" />
+        <mxCell id="_0qj-7AA-uxdaf65aAc7-1" parent="_0qj-7AA-uxdaf65aAc7-0" />
+        <mxCell id="_0qj-7AA-uxdaf65aAc7-3" value="LOGO" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" vertex="1" parent="_0qj-7AA-uxdaf65aAc7-1">
+          <mxGeometry x="40" y="60" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_0qj-7AA-uxdaf65aAc7-4" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="_0qj-7AA-uxdaf65aAc7-1">
+          <mxGeometry x="20" y="140" width="1060" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_0qj-7AA-uxdaf65aAc7-5" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="_0qj-7AA-uxdaf65aAc7-1">
+          <mxGeometry x="30" y="160" width="1040" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_0qj-7AA-uxdaf65aAc7-6" value="Home" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="_0qj-7AA-uxdaf65aAc7-1">
+          <mxGeometry x="345" y="175" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_0qj-7AA-uxdaf65aAc7-7" value="Gaming" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="_0qj-7AA-uxdaf65aAc7-1">
+          <mxGeometry x="520" y="175" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_0qj-7AA-uxdaf65aAc7-8" value="Singing" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="_0qj-7AA-uxdaf65aAc7-1">
+          <mxGeometry x="695" y="175" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_0qj-7AA-uxdaf65aAc7-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="_0qj-7AA-uxdaf65aAc7-1">
+          <mxGeometry x="60" y="270" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="_0qj-7AA-uxdaf65aAc7-10" value="Evan&#39;s Favorite Things" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="_0qj-7AA-uxdaf65aAc7-1">
+          <mxGeometry x="603" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_0qj-7AA-uxdaf65aAc7-11" value="Singing" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="_0qj-7AA-uxdaf65aAc7-1">
+          <mxGeometry x="500" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_0qj-7AA-uxdaf65aAc7-12" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Georgia&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/font&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="_0qj-7AA-uxdaf65aAc7-1">
+          <mxGeometry x="170" y="580" width="800" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_0qj-7AA-uxdaf65aAc7-13" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="_0qj-7AA-uxdaf65aAc7-1">
+          <mxGeometry x="405" y="270" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="_0qj-7AA-uxdaf65aAc7-14" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="_0qj-7AA-uxdaf65aAc7-1">
+          <mxGeometry x="750" y="270" width="290" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
